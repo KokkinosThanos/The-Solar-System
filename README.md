@@ -20,7 +20,7 @@ resolve them through the DOM in the browser and using CSS to create a beautiful 
 This way the back-end (Express server) becomes an API that the front staτic files 
 independently fetches the data from.
 
-          --------------------------------------
-          --------------------------------------
+
+
 
 As you run this application visit https://solar-system.kokkinos-thanos.com/graphql for the GraphQL playground :)
