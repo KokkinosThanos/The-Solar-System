@@ -1,0 +1,13 @@
+
+type Query {
+    planets: [Planet]
+}
+
+type Planet {
+    Planet: String
+    Description: String
+    Tempeture: Int
+    Rotation: Float
+    Revolution: Float
+    Radius: Float
+}
