@@ -7,7 +7,7 @@
      
 A full-stack application made with GraphQL !
 
-Τhis is a web site is about the solar system and presents some basic information about it.
+Τhis is a web site about the solar system and presents some basic information about it.
 
 By the tehnichal side there are three parts. The Mysql database, the Express server and the client-side.
 
