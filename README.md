@@ -13,4 +13,6 @@ for the final appearance of this web site!
 Mysql, Express.js, Apollo-Server, GraphQL
 
 
-As you run this application visit https://solar-system.kokkinos-thanos.com/graphql for the GraphQL playground 
+
+This application is dockerised
+You also can check the GraphQL playground at https://solar-system.kokkinos-thanos.com/graphql 
