@@ -23,4 +23,4 @@ Database
 
 -----------------------------
 
-The real-time GraphQL playground at https://solar-system.kokkinos-thanos.com/graphql. This application is dockerised, as you clone it you can test it localy. 
+The real-time GraphQL playground at https://solar-system.kokkinos-thanos.com/graphql. This application is dockerised, as you clone it you can test it locally. 
