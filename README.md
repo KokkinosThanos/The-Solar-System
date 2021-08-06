@@ -22,5 +22,6 @@ Database
 - Mysql
 
 -----------------------------
-This application is dockerised, as you clone it you can test it localy
+This application is dockerised, as you clone it you can test it localy. 
+-
 Also check the real-time GraphQL playground at https://solar-system.kokkinos-thanos.com/graphql 
