@@ -5,7 +5,7 @@ with vanila Javascript and combine the DOM with the CSS
 for the final appearance of this web site! 
 
 ------------------------
--- Web Technologies --
+ Web Technologies
 
 Client Side
 - Html
