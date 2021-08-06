@@ -14,5 +14,5 @@ Mysql, Express.js, Apollo-Server, GraphQL
 
 
 
-This application is dockerised
-You also can check the GraphQL playground at https://solar-system.kokkinos-thanos.com/graphql 
+This application is dockerised, as you clone it you can test it localy
+Also check the real-time GraphQL playground at https://solar-system.kokkinos-thanos.com/graphql 
