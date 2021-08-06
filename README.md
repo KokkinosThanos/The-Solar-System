@@ -8,10 +8,15 @@ for the final appearance of this web site!
 -- Web Technologies --
 
 Client Side
-
-- 
+- Html
+- Css
+- Javascript ( Javascript Dom )
      
-     
+Server Side
+- Express
+- GraphQl
+- Apollo Server Express
+- Sequelize
 
 
 Mysql, Express.js, Apollo-Server, GraphQL
