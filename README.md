@@ -1,8 +1,7 @@
 # The Solar System
 
-Fetching from the database with Graphql, resolve the data 
-with vanila Javascript and combine the DOM with the CSS 
-for the final appearance of this web site! 
+Here I present a simple query technique with Graphql from a Mysql database.
+And also a way to present these data with Javascript DOM in the client.
 
 ------------------------
  Web Technologies
@@ -23,4 +22,3 @@ Database
 
 -----------------------------
 
-The real-time GraphQL playground at https://solar-system.kokkinos-thanos.com/graphql. This application is dockerised, as you clone it you can test it locally. 
