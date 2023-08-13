@@ -1,6 +1,6 @@
 # The Solar System
 
-Here I present a simple query technique with Graphql from a Mysql database.
+Here I work on a query technique with Graphql from a Mysql database.
 And also a way to present these data with Javascript DOM in the client.
 
 ------------------------
